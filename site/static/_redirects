@@ -2,6 +2,8 @@
 /css/ecomm/shoppingcart/*  https://es257.infusionsoft.app/css/ecomm/shoppingcart/:splat  200
 /js/*  https://es257.infusionsoft.app/js/:splat  200
 /app/*  https://es257.infusionsoft.app/app/:splat  200
+/cart/*  https://es257.infusionsoft.app/cart/:splat  200
+
 
 
 
