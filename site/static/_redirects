@@ -1,1 +1,7 @@
 /buy/*  https://es257.infusionsoft.app/app/storeFront/:splat  200
+/css/ecomm/shoppingcart/*  https://es257.infusionsoft.app/css/ecomm/shoppingcart/:splat  200
+/js/*  https://es257.infusionsoft.app/js/:splat  200
+
+
+
+
